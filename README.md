@@ -4,7 +4,8 @@
 [Ver el proyecto en vivo](https://jairo51067.github.io/Restricted-Textarea/)
 
 Vista previa del proyecto
-![textarea restrigido](https://github.com/user-attachments/assets/cd33169e-aa5a-4e87-aeca-f40decaaa8e5)
+![textarea restrigido](https://github.com/user-attachments/assets/91e8a00c-5404-418e-80d9-07b138020742)
+
 
 ## Descripción
 "Restricted Textarea" es un componente interactivo que limita el número de caracteres permitidos en un campo de texto. Cambia dinámicamente el color del borde y del texto según el número de caracteres escritos, proporcionando una experiencia de usuario clara e intuitiva. Fue creado para ser reutilizable en proyectos web más grandes.
