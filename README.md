@@ -5,6 +5,11 @@
 
 Vista previa del proyecto
 ![textarea restrigido](https://github.com/user-attachments/assets/e14d464c-21fb-492e-b2a4-b567d60b9143)
+<br>
+![textarea restringido_230](https://github.com/user-attachments/assets/7f02ba3b-f669-44e9-8af5-b236bacc2db2)
+<br>
+![textarea restrigido_250](https://github.com/user-attachments/assets/11e390e6-dc9c-47fc-ad4c-b13754684abe)
+
 
 
 
