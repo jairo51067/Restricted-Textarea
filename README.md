@@ -4,7 +4,8 @@
 [Ver el proyecto en vivo](https://jairo51067.github.io/Restricted-Textarea/)
 
 Vista previa del proyecto
-![textarea restrigido](https://github.com/user-attachments/assets/91e8a00c-5404-418e-80d9-07b138020742)
+![textarea restrigido](https://github.com/user-attachments/assets/e14d464c-21fb-492e-b2a4-b567d60b9143)
+
 
 
 ## Descripción
